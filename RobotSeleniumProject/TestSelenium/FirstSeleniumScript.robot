@@ -13,6 +13,7 @@ TCforOnlyTagCheck
     [Tags]    smoke
     
     Open Browser                    https://google.com             chrome
+    Sleep                           2
     Close Browser
     
 
